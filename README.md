@@ -151,7 +151,7 @@ const peerapat = {
 
 [![Email](https://img.shields.io/badge/Email-tungpeerapat2002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tungpeerapat2002@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-098--830--6802-1D9E75?style=for-the-badge&logo=phone&logoColor=white)](tel:0988306802)
-[![GitHub](https://img.shields.io/badge/GitHub-9_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-9_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TungPeerapat)
 
 </div>
 
