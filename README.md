@@ -82,7 +82,14 @@ const peerapat = {
 ## 💼 Work Experience
 
 ```
-📌 Aug 2025 – Present
+📌 Jan 2026 – Present
+   Consultant
+   Tigersoft (1998) Co., Ltd. — HR & Payroll Software Solutions
+   ├── Promoted from Associate Software Developer
+   ├── Consulting on HR & Payroll software solutions for clients
+   └── Leading technical guidance and system improvements
+
+📌 Aug 2025 – Dec 2025
    Associate Software Developer
    Tigersoft (1998) Co., Ltd. — HR & Payroll Software Solutions
    ├── Developed & maintained HR & Payroll software systems
