@@ -1,41 +1,110 @@
-# Hi there, I'm Peerapat Jakkawantanarak 👋
-### Software Developer | Computer & Robotics Engineer
+# 👋 Hi, I'm Peerapat Jakkawantanarakh
 
-[cite_start]Web Developer ที่มีประสบการณ์เชี่ยวชาญในการพัฒนาระบบ HR & Payroll และ Startup Solutions โดยเน้นการสร้าง Scalable Application และการจัดการ Database ที่มีประสิทธิภาพ 
-
----
-
-### 🛠 Tech Stack & Expertise
-
-- [cite_start]**Backend:** VB.NET, ASP.NET, PHP (Laravel), Golang, RESTful APIs 
-- [cite_start]**Frontend:** React (Next.js), Javascript, Typescript, Tailwind CSS, JQuery 
-- [cite_start]**Mobile:** Flutter (Mobile App Development) 
-- [cite_start]**Data & Reporting:** SQL Server, MySQL, Crystal Report, Telerik Reporting 
-- [cite_start]**Tools & DevOps:** Git, Docker, Microservices, MCP Server 
+💻 Software Developer | Fullstack Developer  
+📍 Bangkok, Thailand  
 
 ---
 
-### 📂 Highlight Projects
+## 🚀 About Me
+Web developer with experience in **VB.NET, ASP.NET, Crystal Reports, Telerik, Laravel, Flutter**  
+Worked on **HR & Payroll systems** and startup environments  
 
-- [cite_start]**HR & Payroll Systems:** พัฒนาและปรับแต่ง Feature ตามความต้องการของลูกค้าในธุรกิจ ERP 
-- [cite_start]**Clothing Matching App (Flutter):** โปรเจกต์จบการศึกษาที่รวมระบบ AI แนะนำการแต่งกายเข้ากับ E-commerce 
-- [cite_start]**Startup Web Applications:** พัฒนา Web App ด้วย Laravel และ Bootstrap เน้นการทำ Database Optimization 
-
----
-
-### 📊 GitHub Stats & Skills
-| My Contributions | Languages & Tools |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=radical) |
+🎯 Strong foundation in **Computer & Robotics Engineering**  
+📈 Always learning, improving, and adapting from feedback  
 
 ---
 
-### 🌐 Connect with me
+## 🛠 Tech Stack
 
-<p align="left">
-<a href="mailto:tungpeerapat2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="tel:0988306802"><img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"></a>
-<a href="https://github.com/YOUR_GITHUB_ID" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+### 💡 Frontend
+- React (Next.js)
+- HTML, CSS, Tailwind
+- JavaScript, TypeScript
+- jQuery
 
-> [cite_start]"Eager to learn and improve from feedback"
+### ⚙️ Backend
+- ASP.NET / VB.NET
+- Golang
+- PHP (Laravel)
+- RESTful APIs
+
+### 🗄 Database
+- SQL Server
+- MySQL
+- Firebase
+
+### 🧰 Tools & Others
+- Git
+- Docker Engine
+- Microservices
+- Telerik Reporting
+- Crystal Reports
+
+---
+
+## 💼 Experience
+
+### 🏢 Tigersoft (1998) Co., Ltd.
+**Associate Software Developer**  
+📅 August 2025 - Present  
+
+- Developed and maintained HR & Payroll systems  
+- Customized features based on client requirements  
+- Provided technical support and fixed system issues  
+
+---
+
+### 🚀 Hyphen Plus Co., Ltd. (Startup)
+**Fullstack Developer (Internship)**  
+📅 2024  
+
+- Developed web applications using Laravel + Bootstrap  
+- Optimized database structures  
+- Improved UI/UX  
+
+---
+
+## 📱 Projects
+
+### 👕 Clothing Matching App (Flutter)
+Final Project  
+
+- Mobile app that suggests outfit combinations  
+- Includes **e-commerce system** for purchasing items  
+- Built with Flutter  
+
+🔗 GitHub: [Your Repo Link Here]  
+🎨 Figma: [Your Design Link Here]  
+
+---
+
+## 🎓 Education
+
+### 🎓 Bachelor of Engineering (Computer and Robotics)
+📍 Bangkok University  
+📅 2020 - 2025  
+
+- Programming: C / C++ / Python  
+- Robotics & IoT Systems  
+- Automation & Sensor Integration  
+
+---
+
+### 🏫 High School (Arts & Computer Science)
+📍 Pichairattanakarn School  
+📅 2017 - 2020  
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Contact Me
+- 📞 098-830-6802  
+- 📧 tungpeerapat2002@gmail.com  
+
+---
+
+⭐️ *Feel free to explore my repositories and projects!*
