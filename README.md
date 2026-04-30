@@ -83,7 +83,7 @@ const peerapat = {
 
 ```
 📌 Jan 2026 – Present
-   Consultant
+   Consultant Software Developer
    Tigersoft (1998) Co., Ltd. — HR & Payroll Software Solutions
    ├── Promoted from Associate Software Developer
    ├── Consulting on HR & Payroll software solutions for clients
