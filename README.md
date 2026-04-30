@@ -14,9 +14,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=ASP.NET+%7C+VB.NET+%7C+Telerik+%7C+Crystal+Reports;Laravel+%7C+Flutter+%7C+Golang+%7C+React;HR+%26+Payroll+Systems+Developer;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=1D9E75&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=TungPeerapat&color=1D9E75&style=flat-square&label=Profile+Views)
 [![Gmail Badge](https://img.shields.io/badge/-tungpeerapat2002@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:tungpeerapat2002@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=185FA5&label=Followers)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/TungPeerapat?style=flat-square&color=185FA5&label=Followers)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
