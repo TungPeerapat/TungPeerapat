@@ -28,7 +28,7 @@
 const peerapat = {
   location   : "Bangkok, Thailand 🇹🇭",
   education  : "B.Eng Computer & Robotics · Bangkok University (2020–2025)",
-  currentRole: "Associate Software Developer @ Tigersoft (1998) Co., Ltd.",
+  currentRole: "Consultant Software Developer @ Tigersoft (1998) Co., Ltd.",
   specialties: ["HR & Payroll Systems", "Web Development", "Mobile Apps"],
   learning   : ["Golang", "Microservices", "Cloud Architecture"],
   hobbies    : ["Coding", "Robotics", "IoT Projects"],
@@ -109,7 +109,7 @@ const peerapat = {
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-🔗 **[GitHub Repo](YOUR_GITHUB_LINK)** · **[Figma Design](YOUR_FIGMA_LINK)**
+🔗 **[GitHub Repo]([YOUR_GITHUB_LINK](https://github.com/TanwaratSalee/flutter_finalproject_finder))** · **[Figma Design]([YOUR_FIGMA_LINK](https://www.figma.com/file/uVLBRFsW0ObIxBJaG4Jeuq/Matching?type=design&node-id=2118%3A3424&mode=design&t=ug9SROlxTGeKY5Gh-1))**
 
 ---
 
@@ -117,11 +117,11 @@ const peerapat = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TungPeerapat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TungPeerapat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TungPeerapat&theme=tokyonight&hide_border=true)
 
 </div>
 
