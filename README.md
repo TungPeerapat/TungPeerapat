@@ -116,7 +116,7 @@ const peerapat = {
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-🔗 **[GitHub Repo]([YOUR_GITHUB_LINK](https://github.com/TanwaratSalee/flutter_finalproject_finder))** · **[Figma Design]([YOUR_FIGMA_LINK](https://www.figma.com/file/uVLBRFsW0ObIxBJaG4Jeuq/Matching?type=design&node-id=2118%3A3424&mode=design&t=ug9SROlxTGeKY5Gh-1))**
+🔗 **[GitHub Repo]([(https://github.com/TanwaratSalee/flutter_finalproject_finder)])** · **[Figma Design]([YOUR_FIGMA_LINK](https://www.figma.com/file/uVLBRFsW0ObIxBJaG4Jeuq/Matching?type=design&node-id=2118%3A3424&mode=design&t=ug9SROlxTGeKY5Gh-1))**
 
 ---
 
