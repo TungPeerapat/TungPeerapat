@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Peerapat Jakkawantanarak</title>
+  <desc id="desc">Software developer creating useful systems for people and businesses.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0b1020"/>
+      <stop offset="1" stop-color="#15213b"/>
+    </linearGradient>
+    <linearGradient id="accent" x2="1" y2="0">
+      <stop stop-color="#55e6c1"/>
+      <stop offset="1" stop-color="#65a8ff"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".055"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="1080" cy="70" r="190" fill="#55e6c1" opacity=".06"/>
+  <circle cx="1130" cy="290" r="160" fill="#65a8ff" opacity=".08"/>
+  <rect x="64" y="53" width="183" height="34" rx="17" fill="#55e6c1" fill-opacity=".12" stroke="#55e6c1" stroke-opacity=".35"/>
+  <text x="85" y="76" fill="#87efd4" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2">HELLO, I'M</text>
+  <text x="62" y="156" fill="#f5f8ff" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">Peerapat</text>
+  <text x="65" y="199" fill="#b7c5df" font-family="Arial, Helvetica, sans-serif" font-size="24">Jakkawantanarak</text>
+  <rect x="65" y="227" width="62" height="4" rx="2" fill="url(#accent)"/>
+  <text x="65" y="265" fill="#d4e2f3" font-family="Arial, Helvetica, sans-serif" font-size="18">Building useful software for real-world problems.</text>
+  <g fill="none" stroke="url(#accent)" stroke-width="3" opacity=".9">
+    <rect x="886" y="77" width="194" height="166" rx="20"/>
+    <path d="m946 146-25 18 25 18m74-36 25 18-25 18m-24-49-20 62" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="1078" cy="80" r="7" fill="#55e6c1"/>
+  <circle cx="889" cy="242" r="5" fill="#65a8ff"/>
+</svg>

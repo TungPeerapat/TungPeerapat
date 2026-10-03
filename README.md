@@ -1,166 +1,75 @@
 <div align="center">
+  <img src="./assets/profile-header.svg" alt="Peerapat Jakkawantanarak — software developer based in Bangkok" width="100%" />
 
-```
-██████╗      ██╗
-██╔══██╗     ██║
-██████╔╝     ██║
-██╔═══╝ ██   ██║
-██║     ╚█████╔╝
-╚═╝      ╚════╝   Peerapat Jakkawantanarak
-```
-
-# Hi there 👋 I'm **Peerapat**
-### Software Developer · Bangkok, Thailand 🇹🇭
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=ASP.NET+%7C+VB.NET+%7C+Telerik+%7C+Crystal+Reports;Laravel+%7C+Flutter+%7C+Golang+%7C+React;HR+%26+Payroll+Systems+Developer;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-![Profile Views](https://komarev.com/ghpvc/?username=TungPeerapat&color=1D9E75&style=flat-square&label=Profile+Views)
-[![Gmail Badge](https://img.shields.io/badge/-tungpeerapat2002@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:tungpeerapat2002@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/TungPeerapat?style=flat-square&color=185FA5&label=Followers)](https://github.com/YOUR_GITHUB_USERNAME)
-
+  <h3>Software Developer · Bangkok, Thailand 🇹🇭</h3>
+  <p>Business systems &nbsp;•&nbsp; Web applications &nbsp;•&nbsp; Mobile experiences</p>
+  <p>
+    <a href="mailto:tungpeerapat2002@gmail.com"><img src="https://img.shields.io/badge/Let's%20talk-Email-52d6b1?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Peerapat" /></a>
+    <a href="https://github.com/TungPeerapat?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-609cff?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore projects" /></a>
+  </p>
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 👋 A little about me
 
-```typescript
-const peerapat = {
-  location   : "Bangkok, Thailand 🇹🇭",
-  education  : "B.Eng Computer & Robotics · Bangkok University (2020–2025)",
-  currentRole: "Consultant Software Developer @ Tigersoft (1998) Co., Ltd.",
-  specialties: ["HR & Payroll Systems", "Web Development", "Mobile Apps"],
-  learning   : ["Golang", "Microservices", "Cloud Architecture"],
-  hobbies    : ["Coding", "Robotics", "IoT Projects"],
-};
-```
+I build practical software for the web and mobile. At **Tigersoft**, I work with clients on HR and payroll systems, turning complex requirements into reliable features. My background spans Laravel web apps, Flutter mobile apps, and computer and robotics engineering.
 
-> Web developer with experience in VB.NET, ASP.NET, Crystal Report, Telerik, Laravel, and Flutter.
-> Worked on HR & Payroll systems and Startup environments.
-> Strong foundation in computer and robotics engineering — eager to learn and improve from feedback.
+| 💼 Currently | 🧭 Interested in | 🎓 Background |
+| :--- | :--- | :--- |
+| Consultant Software Developer at Tigersoft | Go, microservices, and cloud architecture | B.Eng. Computer & Robotics, Bangkok University |
 
----
+### 🛠️ My toolkit
 
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-
-### Backend
+**Business systems**<br/>
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-5C2D91?style=flat-square&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![RESTful API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### Database
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Telerik](https://img.shields.io/badge/Telerik_Reporting-282C34?style=flat-square)
+![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-282C34?style=flat-square)
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Telerik](https://img.shields.io/badge/Telerik_Reporting-5CE500?style=flat-square&logo=progress&logoColor=white)
-![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-0070C0?style=flat-square&logo=sap&logoColor=white)
-![MCP Server](https://img.shields.io/badge/MCP_Server-000000?style=flat-square&logo=anthropic&logoColor=white)
-
----
-
-## 💼 Work Experience
-
-```
-📌 Jan 2026 – Present
-   Consultant Software Developer
-   Tigersoft (1998) Co., Ltd. — HR & Payroll Software Solutions
-   ├── Promoted from Associate Software Developer
-   ├── Consulting on HR & Payroll software solutions for clients
-   └── Leading technical guidance and system improvements
-
-📌 Aug 2025 – Dec 2025
-   Associate Software Developer
-   Tigersoft (1998) Co., Ltd. — HR & Payroll Software Solutions
-   ├── Developed & maintained HR & Payroll software systems
-   ├── Customized features to meet client requirements
-   └── Provided technical support and resolved system issues
-
-📌 2024
-   Fullstack Developer (Internship)
-   Hyphen Plus Co., Ltd. — Startup
-   ├── Built web apps using Laravel (PHP) & Bootstrap
-   ├── Managed and optimized database structures
-   └── Improved website UI/UX using Bootstrap
-```
-
----
-
-## 🚀 Featured Project
-
-### 👗 Clothing Matching App *(Final Project)*
-
-> A Flutter mobile application that helps users match outfits based on preferences, style, and occasion — with integrated e-commerce for browsing and purchasing clothing items in-app.
-
+**Web & mobile**<br/>
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue_3-42B883?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-🔗 **[GitHub Repo](https://github.com/TungPeerapat)** · **[Figma Design](https://www.figma.com/file/uVLBRFsW0ObIxBJaG4Jeuq/Matching?type=design&node-id=2118%3A3424&mode=design&t=ug9SROlxTGeKY5Gh-1)**
+### ✨ Selected projects
 
----
+| Project | What it explores |
+| :--- | :--- |
+| [**Clothing Matching App**](https://github.com/TungPeerapat/flutter_finalproject_finder) | A Flutter final project for outfit matching and clothing discovery. [View the design ↗](https://www.figma.com/file/uVLBRFsW0ObIxBJaG4Jeuq/Matching?type=design&node-id=2118%3A3424&mode=design&t=ug9SROlxTGeKY5Gh-1) |
+| [**Inventory Request System**](https://github.com/TungPeerapat/inventory-request-system) | Inventory requests with a Vue 3 frontend, .NET API, and MySQL. |
+| [**Queue Ticket System**](https://github.com/TungPeerapat/queue-ticket-system) | Service queue management with Angular, Go, and SQL Server. |
 
-## 📊 GitHub Stats
+### 💼 Experience
 
-<div align="center">
+**Consultant Software Developer** · Tigersoft (1998) Co., Ltd.<br/>
+*Jan 2026 – Present*<br/>
+Consult on HR and payroll solutions, guide technical improvements, and support client needs. Promoted from Associate Software Developer.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TungPeerapat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+**Associate Software Developer** · Tigersoft (1998) Co., Ltd.<br/>
+*Aug 2025 – Dec 2025*<br/>
+Developed and maintained HR and payroll features, customized systems for clients, and resolved technical issues.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TungPeerapat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+**Fullstack Developer Intern** · Hyphen Plus Co., Ltd.<br/>
+*2024*<br/>
+Built Laravel web applications, worked with database structures, and improved interfaces with Bootstrap.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TungPeerapat&theme=tokyonight&hide_border=true)
+### 🎓 Education
 
-</div>
-
----
-
-## 🎓 Education
-
-| Period | Degree | Institution |
-|--------|--------|-------------|
-| 2020 – 2025 | B.Eng Computer & Robotics Engineering | Bangkok University |
-| 2017 – 2020 | High School · Arts & Computer Science Track | Pichairattanakarn School |
-
-**Highlights:** C/C++/Python · Microcontrollers · IoT · Robot Control · AI basics · Cloud-connected devices
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-tungpeerapat2002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tungpeerapat2002@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-098--830--6802-1D9E75?style=for-the-badge&logo=phone&logoColor=white)](tel:0988306802)
-[![GitHub](https://img.shields.io/badge/GitHub-9_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TungPeerapat)
-
-</div>
+**B.Eng. Computer & Robotics Engineering** · Bangkok University, 2020–2025<br/>
+Worked with C/C++, Python, microcontrollers, IoT, robot control, and AI fundamentals.
 
 ---
 
 <div align="center">
-
-*"Strong foundation in computer and robotics engineering — eager to learn and improve from feedback."*
-
-**⭐ Star my repos if you find them useful!**
-
+  <br />
+  <strong>Let's build something useful.</strong><br />
+  <a href="mailto:tungpeerapat2002@gmail.com">tungpeerapat2002@gmail.com</a>
 </div>
